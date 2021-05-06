@@ -1,10 +1,12 @@
 # Mast_Dreibein
 Ein einfaches Dreibein für einen Masten oder Rohr.
-Benötigtes Material:
 
-Drei Alu-Vierkantrohre mit 25 mm Seitenlänge
-Drei Flachaluprofile 16 x 2mm mit 1m Länge
-3D-Drucker für die beiden Mastringe, Rohrstopfen und Drehgriffe
+
+### Benötigtes Material:
+
+- Drei Alu-Vierkantrohre mit 25 mm Seitenlänge
+- Drei Flachaluprofile 16 x 2mm mit 1m Länge
+- 3D-Drucker für die beiden Mastringe, Rohrstopfen und Drehgriffe
 
 Schrauben und Muttern:
 
